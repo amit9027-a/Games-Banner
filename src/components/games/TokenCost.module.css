@@ -1,0 +1,17 @@
+.wrap {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.icon {
+  font-size: 18px;
+  line-height: 1;
+}
+
+.text {
+  color: #e6e8f0;
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+}
